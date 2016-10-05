@@ -1,5 +1,5 @@
 {
-    "name": "michiel_van_haute/environment-plugin",
+    "name": "michiel_van_haute/pyro-environment-plugin",
     "type": "streams-addon",
     "autoload": {
         "psr-4": {
