@@ -1,5 +1,5 @@
 {
-    "name": "anomaly/environment-plugin",
+    "name": "michiel_van_haute/environment-plugin",
     "type": "streams-addon",
     "autoload": {
         "psr-4": {
